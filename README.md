@@ -20,3 +20,5 @@ A simple STM32F411 Discovery project that reads analog input from ADC and sends 
 - Initializing GPIO pins for SPI alternate function and output (GPIOx_MODER, GPIOx_AFRL, GPIOx_ODR)  
 - Polling mode ADC conversion and SPI data transmission  
 
+
+
