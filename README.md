@@ -16,9 +16,8 @@ A simple STM32F411 Discovery project that reads analog input from ADC and sends 
 ## What I Learned
 
 - Configuring ADC using HAL and registers (ADC_SR, ADC_CR2, ADC_SMPRx)  
-- Setting up SPI peripheral in master mode with manual NSS control (SPI_CR1, SPI_CR2)  
+- Setting up SPI protocol
 - Initializing GPIO pins for SPI alternate function and output (GPIOx_MODER, GPIOx_AFRL, GPIOx_ODR)  
-- Polling mode ADC conversion and SPI data transmission  
 
 
 
